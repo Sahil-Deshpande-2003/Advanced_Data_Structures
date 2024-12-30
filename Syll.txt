@@ -1,0 +1,14 @@
+1st unit (all topics)   2nd unit leftist heap skew heap binomial heap  fibonacci heap         3rd unit - splay tree codes LEFT!!!!!!!!!!!!!!!  2 3 4 tree no codes  skip list no codes  trie   compressed trie codes done     4th unit - segment tree https://www.youtube.com/watch?v=ZBHKZF5w4YU&ab_channel=TusharRoy-CodingMadeSimple WATCH ONCE!!!! point code nahi samjha  +  priority search tree no codes  +  interval tree no codes D.L.!!!!!!!!!!!!!!!!! +  kd tree nearest neighbour left 5th unit - cache oblivious and persistent data st (only the basics from notes i have provided)     6th unit - omit
+
+
+1. cache?
+2. splay tree proof
+3. amortized learn
+4. potential function unke jo class me liye hai!!!!
+5. codes
+complexities
+Fib potential
+
+
+codes
+rb tree
